@@ -1,0 +1,7 @@
+Types of Binary Tree
+1. Full Binary Tree
+2. Perfect Binary Tree
+3. Complete Binary Tree
+4. Degenerate or Pathological Tree
+5. Skewed Binary Tree
+6. Balanced Binary Tree

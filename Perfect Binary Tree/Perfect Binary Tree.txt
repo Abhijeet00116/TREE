@@ -1,0 +1,5 @@
+Perfect Binary Tree Theorems
+1. A perfect binary tree of height h has 2h + 1 – 1 node.
+2. A perfect binary tree with n nodes has height log(n + 1) – 1 = Θ(ln(n)).
+3. A perfect binary tree of height h has 2h leaf nodes.4. 
+The average depth of a node in a perfect binary tree is Θ(ln(n)).
